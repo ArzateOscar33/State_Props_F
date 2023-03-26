@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+/*Componente Header */
+
+.Header {
+  align-items: center;
+  color: #fff;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  min-height: 25vh;
+}
+
+.logo {
+  height: 20vmin;
+}
+
+
+
+.banner {
+  align-items: stretch;
+  background-color: #082aa7;
+  color: #fff;
+  flex-wrap: wrap;
+  font-size: calc(9px + 1vmin);
+  justify-content: space-around;
+  min-height: 5vh;
+}
+
+
+.tablas {
+  min-height: 65vh;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  
+
+}
+.tablita2{
+  margin-left: 100px;
+  margin-top: 20px;
+  
+}
+.tablita1{
+  margin-left: 50px;
+  margin-top: 20px;
+}
